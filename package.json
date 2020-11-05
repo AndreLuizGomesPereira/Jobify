@@ -1,0 +1,14 @@
+{
+  "name": "jobify",
+  "version": "1.0.0",
+  "description": "Estudo de Desenvolvimento FullStack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "André Luiz Gomes Pereira",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
