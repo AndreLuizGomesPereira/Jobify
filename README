@@ -1,11 +1,4 @@
-<<<<<<< HEAD
 PROJETO JOBIFY
 
 - Iniciamos com o pacote Express. (npm install express)
 - Instalar o EJS para extração do HTML. (npm install ejs)
-
-=======
-#Projeto Jobify
-
-- Iniciamos com o pacote Express. **npm install express*
->>>>>>> 3085b97fe01242aade26ef2d285f244f852bcf86
